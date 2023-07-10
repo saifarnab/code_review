@@ -183,7 +183,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-code_review.csv
 dataset_with_cs.xlsx
 
 # Spyder project settings
