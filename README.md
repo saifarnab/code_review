@@ -19,7 +19,7 @@ Masum Hasan[3,5]
 5 Department of Computer Science, University of Rochester, Rochester, NY, United States
 ```
 
-#### How to run:  
+# How to run:  
 - Required python version >= 3.8.10
 - Create virtual environment and activate venv in project
 ```shell script
