@@ -1,6 +1,6 @@
 ```
-# ReviewRanker: A Semi-Supervised Learning Based Approach 
-# for Code Review Quality Estimation
+ReviewRanker: A Semi-Supervised Learning Based Approach 
+for Code Review Quality Estimation
 ```
 
 - Required python version >= 3.8.10
